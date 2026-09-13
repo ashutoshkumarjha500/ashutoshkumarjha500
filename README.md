@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hey, I'm Ashutosh Jha
 
-<!--
-**ashutoshkumarjha500/ashutoshkumarjha500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I’m a passionate developer focused on building **modern, scalable, and user-friendly web applications** using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into real-world products, learning new technologies, and continuously improving my development skills.
+
+---
+
+## 👨‍💻 About Me
+
+* 💻 MERN Stack Developer
+* 🌱 Currently improving my **Full-Stack Development** skills
+* 🚀 Building real-world web applications
+* 🧠 Interested in **Backend Development, APIs & Database Design**
+* 🔍 Always learning and exploring new technologies
+* 🎯 Goal: Become a highly skilled **Full-Stack Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 MERN E-Commerce Platform
+
+A full-stack e-commerce application built with the MERN stack.
+
+**Features**
+
+* 🔐 User Authentication
+* 🛍️ Product Management
+* 🛒 Shopping Cart
+* 💳 Order Management
+* 👨‍💼 Admin Dashboard
+* 📊 Product & Order Management
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+---
+
+### 💬 Real-Time Chat Application
+
+A real-time messaging application designed for fast and seamless c
